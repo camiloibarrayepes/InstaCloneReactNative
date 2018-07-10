@@ -1,4 +1,5 @@
 {
-  "name": "instaClone",
-  "displayName": "instaClone"
+  "expo": {
+    "sdkVersion": "27.0.0"
+  }
 }
